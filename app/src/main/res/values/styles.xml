@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.PS4Stream" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#070B18</item>
+        <item name="android:navigationBarColor">#080E1F</item>
+        <item name="android:colorAccent">#846DFF</item>
+        <item name="android:windowBackground">#080E1F</item>
+    </style>
+</resources>
